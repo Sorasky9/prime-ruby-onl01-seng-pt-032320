@@ -3,7 +3,7 @@ def prime?(n)
 if n
   return true
 else
-  false
+  puts false
 
 end
 end
