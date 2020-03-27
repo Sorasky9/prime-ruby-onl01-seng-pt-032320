@@ -8,4 +8,4 @@ else
 (2..n-1).to_a.all? {|element| n % element != 0}
 end
 end
-puts prime?(200111)
+puts prime?(2001137)
