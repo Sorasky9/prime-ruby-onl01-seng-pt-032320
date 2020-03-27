@@ -2,8 +2,8 @@
 def prime?(n)
 
 
-if n
-  return true
+if n <= 1
+  return false
 else
   puts false
 
